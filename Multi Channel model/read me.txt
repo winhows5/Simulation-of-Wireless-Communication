@@ -1,0 +1,33 @@
+wireless_COST231_hata_attenuation.m为COST-231 Hata模型函数
+
+wireless_free_space_attenuation.m为自由空间路径损耗函数
+
+wireless_hata_attenuation.m为Okumura-Hata模型函数
+
+wireless_Walfish_Ikegami_LOS_attenuation.m为COST231-WI视距模型函数
+
+wireless_Walfish_Ikegami_NLOS_attenuation.m为COST231-WI非视距模型函数
+
+Simulink_wireless_hata_attenuation.m为Okumura-Hata模型仿真
+
+Simulink_wireless_Walfish_Ikegami_attenuation.m为COST231-WI模型仿真
+
+Simulink_wireless_COST231_hata_attenuation.m为COST-231 Hata模型仿真
+
+BPSK_BER1.mdl为高斯白噪声下BPSK误比特率的simulink模型
+
+Simulink_BPSK_BER.m为高斯白噪声下BPSK误比特率的模型仿真
+
+BSC_BER.mdl为二进制对称信道simulink模型
+
+Simulink_BSC_BER.m为二进制对称信道误比特率模型的仿真
+
+BFSK_RayleighFading_BER.mdl为BFSK在Rayleigh信道中的误比特率的simulink模型
+
+BFSK_AWGN_BER.mdl为高斯白噪声下BFSK误比特率的simulink模型
+
+Simulink_Reileigh_BPSK_ BER.m为BFSK在Rayleigh信道和AWGN信道中误比特率比较的模型的仿真
+
+BFSK_RicianFading_BER为BFSK在RicianFading信道的误比特率的simulink模型
+
+Simulink_BFSK_RicianFading_BER.m为BFSK在各种信道中的比较
